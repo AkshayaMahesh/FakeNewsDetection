@@ -14,7 +14,9 @@ Category of the news article 🗞️
 To train our model, we'll use popular machine learning libraries such as 🐍Python, 🧬NumPy, 📊Pandas, and 🤖PyTorch. After training the model, we'll evaluate its accuracy 🎯 and create a confusion matrix to analyze the results 📈.
 
 ## Conclusion
-It was observed that LSTM with Glove embeddings performs the best out of all the chosen algorithms, with the highest accuracy. It also has the highest recall signifying that the less represented class of fake news is being identified accurately compared to other algorithms.<img width="400" height="400" alt="Screen Shot 2023-04-22 at 22 01 54" src="https://user-images.githubusercontent.com/97194041/233815538-acc742c4-43bc-4c11-82ff-0b17bff97958.png">
+It was observed that LSTM with Glove embeddings performs the best out of all the chosen algorithms, with the highest accuracy. It also has the highest recall signifying that the less represented class of fake news is being identified accurately compared to other algorithms.
+
+<img width="400" height="400" alt="Screen Shot 2023-04-22 at 22 01 54" src="https://user-images.githubusercontent.com/97194041/233815538-acc742c4-43bc-4c11-82ff-0b17bff97958.png">
 
 More than 20,000 Fake words and Characters are noticed in the news article data we chose
 
